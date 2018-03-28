@@ -416,7 +416,7 @@ class LINE:
       print("       ~ TOKEN GENERATOR SUCCESS ~")
       print("=========================================")
       print("UA : 'Line/5.5.3 WIN10-x64'")
-      print("LA : 'WIN10\t5.5.3\tWindows_OS\t10.5.66.1'")
+      print("LA : 'WIN10 5.5.3 Windows_OS 10.5.66.1'")
       print("AuthToken :  " + self.authToken)
       print("Certificate : " + self.cert if self.cert is not None else "")
       print("=========================================")
